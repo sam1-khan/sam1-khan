@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @sam1-khan
-- 👀 I’m interested in open source contributions and data engineering.
-- 🌱 I’m currently learning python, sql and data engineering concepts & tools.
+- 👀 I’m interested in crafting solutions through code & contributing in the open source space.
+- 🌱 I’m currently learning next js & typescript.
+- 🔧 I’m currently working on a full-stack invoice genertor app.
