@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sam1-khan
 - 👀 I’m interested in crafting solutions through code & contributing in the open source space.
 - 🌱 I’m currently learning next js & typescript.
-- 🔧 I’m currently working on a full-stack invoice genertor app.
+- 🔧 I’m currently working on a full-stack invoice generator app.
